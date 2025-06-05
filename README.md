@@ -39,5 +39,4 @@ Stratified Sampling Technique is the best technique in this case but only margin
 
 ## Submission by :
 Name : Arpit Dubey
-<br>
-Roll No : 102103463
+
